@@ -22,7 +22,7 @@ test.describe('user endpoints', () => {
     console.log(await response.text());
   });
 
-  //Due to run in Github action
+  //Due to run in Github action fdgfg
   test('fetch a single user', async ({ request }) => {
     const response = await request.get('/api/users/2')
     expect (response.ok()).toBeTruthy();
