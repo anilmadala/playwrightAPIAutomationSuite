@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1","create user","","Wed Mar 11 06:16:26 UTC 2026","skipped","Wed Mar 11 06:16:26 UTC 2026","","","",""
+"","138","create user","","Wed Mar 11 06:16:25 UTC 2026","failed","Wed Mar 11 06:16:25 UTC 2026","create user endpoints","","",""
+"","147","fetch user list","","Wed Mar 11 06:16:25 UTC 2026","failed","Wed Mar 11 06:16:25 UTC 2026","user endpoints","","",""
+"","111","create user and delete User","","Wed Mar 11 06:16:26 UTC 2026","failed","Wed Mar 11 06:16:26 UTC 2026","create user and delete user endpoints","","",""
+"","122","fetch a single user","","Wed Mar 11 06:16:26 UTC 2026","failed","Wed Mar 11 06:16:26 UTC 2026","user endpoints","","",""
